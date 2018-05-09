@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Crux of the Rucs.
+comments: true
 published: true
 ---
 ![Crux](/images/crux.jpg)
