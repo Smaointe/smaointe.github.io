@@ -1,7 +1,7 @@
 
 ![NewControl](/images/NewCtrl.jpg)
 #### *The panel on the left is the control interface for the immersion heater for hot water. Too many times the immersion had been left on – waisting electricity. Details of the workings are to follow. The installation was the normal standard – dual immersion (sink/bath) installed in cylinder upstairs with a local (to the immersion) On/Off and Sink/Bath selection switch.*
-![Original](/images/OrigCtrl.jpg)
+![Original](/images/OrigCtrlR.jpg)
 Fig 2. Origional Controller Upstairs.
 #### *So, one would run upstairs to turn it on but forget to return to turn it off. Oh – to have a facility to do the switching down stairs without running new cables and messing up the plaster. Turns out that the immersion draws a fair amount of current and, as such, has it’s own circuit with a circuit breaker in the consumer box which is located in the utility – very accessible when working in the kitchen. One could use the breaker as a switch but this would not be very elegant. Also, it would be nice to switch immersion on for a specified duration.* 
 
