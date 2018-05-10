@@ -1,4 +1,4 @@
-
+####Just a note regarding a fairly basic upgrade to an existing standard immersion control system
 ![NewControl](/images/NewCtrl.jpg)
 #### *The panel on the left is the control interface for the immersion heater for hot water. Too many times the immersion had been left on – waisting electricity. Details of the workings are to follow. The installation was the normal standard – dual immersion (sink/bath) installed in cylinder upstairs with a local (to the immersion) On/Off and Sink/Bath selection switch.*
 ![Original](/images/OrigCtrlR.jpg)
